@@ -1,2 +1,2 @@
 # Problem-Solving
-### This repository contains some of problems solutions.
+#### This repository contains some of Leetcode problems solutions.
